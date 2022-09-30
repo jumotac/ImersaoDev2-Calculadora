@@ -1,4 +1,14 @@
-# IMERSÃO DEV2 :woman_technologist:
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | **ALURA: IMERSÃO DEV 2 - Calculadora** 
+| :label: Tecnologias | JAVASCRIPT, HTML, CSS 
+| :rocket: URL | https://jumotac.github.io/ImersaoDev2-Calculadora/
+| :fire: Desafio | Criar uma calculadora 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/ImersaoDev2-Calculadora/master/calculadora.png#vitrinedev)
+
+# IMERSÃO DEV2
 
 Esse foi o meu primeiro contato com a programação e foi amor a primeira vista! Depois dessa imersão da [ALURA](www.alura.com.br) resolvi desbravar e me dedicar a esse universo tão incrível e apaixonante.
 
@@ -33,9 +43,18 @@ Nesta segunda aula da Imersão Dev, criamos uma calculadora, que realiza as prin
 - Exibição dos valores escolhidos e o resultado da operação com **_document.write_**;
 
 
+### :wrench:Ferramentas:
+
+Ferramentas utilizadas para auxiliar na execução do projeto:
+
+- **CodePen** - Primeiro editor de código que tive acesso para dar início a esse projeto
+
+- **Visual Studio Code** - editor de código para colocar o projeto no Github;
+
+- **Github** - Para estruturar o portfólio 
 
 
-🔖  **AGRADECIMENTOS:**
+🔖  **Agradecimentos:**
 
 - [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/);
 
@@ -44,10 +63,4 @@ Nesta segunda aula da Imersão Dev, criamos uma calculadora, que realiza as prin
 
 
 
-🌐 **SITE NO AR:**
-
-[CALCULADORA](https://jumotac.github.io/ImersaoDev2-Calculadora/)
-
-
-![Fotos de uma calculadora](/calculadora.png)
-
+ <p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
