@@ -1,6 +1,6 @@
 | :placard: Vitrine.Dev |     |
 | ------------- | --- |
-| :sparkles: Nome | **ALURA: IMERSÃO DEV 2 - Calculadora** 
+| :sparkles: Nome | Alura Imersão Dev2 - **Calculadora** 
 | :label: Tecnologias | JAVASCRIPT, HTML, CSS 
 | :rocket: URL | https://jumotac.github.io/ImersaoDev2-Calculadora/
 | :fire: Desafio | Criar uma calculadora 
